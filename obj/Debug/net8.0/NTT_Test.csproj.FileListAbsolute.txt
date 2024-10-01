@@ -1,0 +1,15 @@
+/home/enigma/Documents/Gitlab/handson/NTT_Test/bin/Debug/net8.0/NTT_Test
+/home/enigma/Documents/Gitlab/handson/NTT_Test/bin/Debug/net8.0/NTT_Test.deps.json
+/home/enigma/Documents/Gitlab/handson/NTT_Test/bin/Debug/net8.0/NTT_Test.runtimeconfig.json
+/home/enigma/Documents/Gitlab/handson/NTT_Test/bin/Debug/net8.0/NTT_Test.dll
+/home/enigma/Documents/Gitlab/handson/NTT_Test/bin/Debug/net8.0/NTT_Test.pdb
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.AssemblyInfoInputs.cache
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.AssemblyInfo.cs
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.sourcelink.json
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.dll
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/refint/NTT_Test.dll
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.pdb
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/NTT_Test.genruntimeconfig.cache
+/home/enigma/Documents/Gitlab/handson/NTT_Test/obj/Debug/net8.0/ref/NTT_Test.dll
